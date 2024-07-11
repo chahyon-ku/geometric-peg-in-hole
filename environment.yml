@@ -1,0 +1,44 @@
+name: geometric-peg-in-hole
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - pytorch3d
+dependencies:
+  - python=3.8
+  - pytorch==1.13.1
+  - torchvision==0.14.1
+  - torchaudio==0.13.1
+  - pytorch-cuda=11.7
+  - cuda=11.7
+  - ca-certificates
+  - openssl
+  - numba
+  - pynput
+  - matplotlib
+  - certifi
+  - tqdm
+  - transforms3d
+  - pybullet
+  - scipy
+  - imageio
+  - pysimplegui
+  - urdfpy
+  - hydra-core
+  - opencv
+  - wandb
+  - moviepy
+  - ftfy
+  - regex
+  - gdown
+  - timm
+  - pytorch3d
+  - qt
+  - pyvips
+  - seaborn
+  - graphicsmagick
+  - absl-py
+  - tensorboardx
+  - scikit-video
+  - einops
+  
