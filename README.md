@@ -1,5 +1,5 @@
-# Geometric-peg-in-hole
-This is the official PyTorch/PyBullet implementation of Imitation Learning for Spatio-Geometry Driven Assembly Task with Dual-arm Robot Manipulator
+# Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning
+Official implementation of our ICRA 2024 (paper)[https://arxiv.org/abs/2310.09943]
 
 ## Environment Setup
 ```
