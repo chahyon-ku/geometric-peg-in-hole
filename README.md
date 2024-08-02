@@ -1,5 +1,15 @@
 # Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning
-Official implementation of our ICRA 2024 (paper)[https://arxiv.org/abs/2310.09943]
+Official implementation of our ICRA 2024 paper.
+[arxiv](https://arxiv.org/abs/2310.09943)
+[website](https://sites.google.com/view/geometric-peg-in-hole)
+```
+@article{geometric-peg-in-hole,
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning},
+  author={Ku, Chahyon and Winge, Carl and Diaz, Ryan and Yuan, Wentao and Desingh, Karthik},
+  year={2024}
+}
+```
 
 ## Environment Setup
 ```
